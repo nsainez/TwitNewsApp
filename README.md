@@ -11,4 +11,5 @@ User can search using a keyword, and GoogleNewsAPI will provide results (up to 2
 matching that search query. 
   
   Data is returned with the most recent results
+  
   Data is English only
